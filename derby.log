@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 14 16:31:11 UTC 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-130f-f28e-000005b184a0 
+on database directory /home/ec2-user/project/sparkML-labelNoise/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1d765e39 
+Loaded from file:/opt/spark-2.3.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=/home/ec2-user/project/sparkML-labelNoise
+os.name=Linux
+os.arch=amd64
+os.version=4.14.77-80.57.amzn2.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
